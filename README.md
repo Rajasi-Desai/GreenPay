@@ -2,6 +2,8 @@
 
 For HackUMass X, we - Rajasi Desai, Suraj Pathak, and Rishab Maheshwari - teamed up to make a sustainability based app which would reward users for making sustainable choices.
 
+<img width="742" height="741" alt="GreenPay" src="https://github.com/user-attachments/assets/42226425-a599-429d-89c8-618cee9baed9" />
+
 ## Tech Stack
 
 We used React Native to make the app, AWS for hosting the server and for scanning the receipt. 
