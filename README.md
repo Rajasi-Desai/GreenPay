@@ -1,6 +1,6 @@
 # Greenpay
 
-For Hack UMass, I teamed up with Rajasi Desai and Suraj Pathak to make a sustainability based app which would reward users for making sustainable choices.
+For HackUMass X, we - Rajasi Desai, Suraj Pathak, and Rishab Maheshwari - teamed up to make a sustainability based app which would reward users for making sustainable choices.
 
 ## Tech Stack
 
@@ -9,3 +9,6 @@ We used React Native to make the app, AWS for hosting the server and for scannin
 ## Youtube
 
 Here's a demo video we made as part of our Hackathon submission: https://www.youtube.com/watch?v=wBJBDNxuj14
+
+## Info
+This is the fork of the original repo we worked on. Because of the hackathon structure and time limitations, we ended up building the project locally on one device and pushing it on GitHub under one account. 
